@@ -50,4 +50,4 @@ The first thing you'll need to get started with tcg.binding is an instance of th
     }
  }
  ```
- And just like that, you have keyboard + mouse binds!
+ And just like that, you have keyboard + mouse binds! A keyboard key and a mouse button being pressed are both instances of an **interaction**. The *bind* method of the *Bindable* class takes a Set of these *interaction* objects as its argument, specifying the combination of key and button presses that should lead to the bound action being performed.
