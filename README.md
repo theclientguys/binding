@@ -4,7 +4,6 @@
   <strong>A client keybind library that doesn't suck</strong>
 </div>
 <br />
-<div align="center">
   
  ## Getting Started
  
